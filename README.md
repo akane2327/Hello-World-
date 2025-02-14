@@ -9,3 +9,4 @@ This is an example for the read.me file that is used to describe my project
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 
 ## Project Title
+
