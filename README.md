@@ -1,6 +1,9 @@
-# Hello-World-
-## First Heading
-### Second Heading
-**Lets try some bold**
+This is an example for the read.me file that is used to describe my project
 
-*How about this*
+## Table of Contents
+
+- [PROJECT TITLE](#Project-Title)
+- [DESCRIPTION](#Description)
+- [HOW TO RUN PROGRAM](#How-to-run-program)
+- [FILE USED](#files-used)
+- [ADDITIONAL DOCUMENTATION](#additional-documentation)
