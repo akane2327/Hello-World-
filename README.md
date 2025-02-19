@@ -6,8 +6,8 @@ This is an example for the read.me file that is used to describe my project
 - [DESCRIPTION](#Description)
 - [THINGS I ENJOY](#Things-I-Enjoy)
 - [THINGS I DO NOT ENJOY](#Things-I-do-not-Enjoy)
-- [ADDITIONAL DOCUMENTATION](#additional-documentation)
-- [VERSIONING](#Versioning)
+- [GOALS](#Goals)
+- [WHAT I AM WORKING ON RIGHT NOW](#What-I-Am-Working-On-Right-Now)
 
 ## Project Title
 **A Little About Me**
@@ -19,3 +19,9 @@ In here going to introduce myself and tell a little bit about myself in the proc
 
 
 ## Things I do not Enjoy
+
+
+## Goals
+
+
+## What I am Working on Right Now
