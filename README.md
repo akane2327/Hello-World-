@@ -37,5 +37,6 @@ In here going to introduce myself and tell a little bit about myself in the proc
 *Current* 
 1. Researching the Leisure Golf Ball market to understand what a consumer wants in a golf ball - As well as possible issues within the market that my group can introduce a product that corrects this issue
 2. Researching the lack of employees working at a local Bar & Grill in Iowa City on the weekends - Understanding what the employees might want that the employers' might not be providing
+
 *Past*
 1. Researched what impacts the price of Ikea Cabinets & Storage Units to determine what variables impact price more than others: Determined Height, Width, and Depth are the three most impactful factors
